@@ -1,13 +1,11 @@
 {
-  "name": "S.Environment.Objects",
+  "name": "S.Environments.Objects",
   "projectId": "eeb47f81-2fbe-45c0-a85f-09bc0e547b22",
   "description": "Objects utilized for the SCALE Framework",
   "main": "NewActivity.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "23.10.3",
-    "UiPath.Testing.Activities": "23.10.0",
-    "UiPath.UIAutomation.Activities": "23.10.7",
-    "UiPath.WebAPI.Activities": "1.18.0"
+    "UiPath.CodedWorkflows": "[23.10.2]",
+    "UiPath.System.Activities": "23.10.3"
   },
   "webServices": [],
   "entitiesStores": [],
